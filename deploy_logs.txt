@@ -1,0 +1,128 @@
+Начинаем деплой UI...
+Начинается обработка репозитория: https://github.com/MooNTooLSTORE/MooNTooLSTORE_UI.git
+Временная директория: /home/user/studio/.deploy_temp/ui
+Временная директория создана.
+Новый репозиторий инициализирован.
+Начинаю выборочное копирование UI файлов...
+Копирую все файлы проекта...
+КРИТИЧЕСКАЯ ОШИБКА: Invalid src or dest: cp returned EINVAL (cannot copy /home/user/studio to a subdirectory of self /home/user/studio/.deploy_temp/ui) /home/user/studio/.deploy_temp/ui
+Начинаем деплой UI...
+Начинается обработка репозитория: https://github.com/MooNTooLSTORE/MooNTooLSTORE_UI.git
+Временная директория: /home/user/studio/.deploy_temp/ui
+Временная директория создана.
+Новый репозиторий инициализирован.
+Начинаю выборочное копирование UI файлов...
+Копирую все файлы проекта...
+КРИТИЧЕСКАЯ ОШИБКА: Invalid src or dest: cp returned EINVAL (cannot copy /home/user/studio to a subdirectory of self /home/user/studio/.deploy_temp/ui) /home/user/studio/.deploy_temp/ui
+Начинаем деплой UI...
+Начинается деплой UI в репозиторий: https://github.com/MooNTooLSTORE/MooNTooLSTORE_UI.git
+Временная директория: /home/user/studio/.deploy_temp/ui
+Временная директория UI создана.
+Новый UI репозиторий инициализирован.
+Начинаю копирование файлов UI...
+Копирую все файлы проекта...
+КРИТИЧЕСКАЯ ОШИБКА: Invalid src or dest: cp returned EINVAL (cannot copy /home/user/studio to a subdirectory of self /home/user/studio/.deploy_temp/ui) /home/user/studio/.deploy_temp/ui
+Начинаем деплой API...
+Начинается деплой API в репозиторий: https://github.com/MooNTooLSTORE/MooNTooLSTOREAPI.git
+Временная директория: /home/user/studio/.deploy_temp/api
+Временная директория API создана.
+Новый API репозиторий инициализирован.
+Начинаю копирование файлов API...
+Копирую директорию API из /home/user/studio/src/app/api в /home/user/studio/.deploy_temp/api/src/app/api
+Копирование API завершено.
+Индексация API файлов...
+API файлы проиндексированы.
+Создание коммита для API...
+API коммит создан.
+Отправка API в ветку 'master'...
+API успешно отправлен.
+Деплой API завершен.
+SUCCESS:Деплой API успешно завершен!
+Начинаем деплой UI...
+Начинается деплой UI в репозиторий: https://github.com/MooNTooLSTORE/MooNTooLSTORE_UI.git
+Временная директория: /home/user/studio/.deploy_temp/ui
+Временная директория UI создана.
+Новый UI репозиторий инициализирован.
+Начинаю копирование файлов UI...
+Копирую все файлы проекта...
+КРИТИЧЕСКАЯ ОШИБКА: Invalid src or dest: cp returned EINVAL (cannot copy /home/user/studio to a subdirectory of self /home/user/studio/.deploy_temp/ui) /home/user/studio/.deploy_temp/ui
+Начинаем деплой API...
+Начинается деплой API в репозиторий: https://github.com/MooNTooLSTORE/MooNTooLSTOREAPI.git
+Временная директория: /home/user/studio/.deploy_temp/api
+Временная директория API создана.
+Новый API репозиторий инициализирован.
+Начинаю копирование файлов API...
+Копирую директорию API из /home/user/studio/src/app/api в /home/user/studio/.deploy_temp/api/src/app/api
+Копирование API завершено.
+Индексация API файлов...
+API файлы проиндексированы.
+Создание коммита для API...
+API коммит создан.
+Отправка API в ветку 'master'...
+API успешно отправлен.
+Деплой API завершен.
+SUCCESS:Деплой API успешно завершен!
+Начинаем деплой UI...
+Начинается деплой UI в репозиторий: https://github.com/MooNTooLSTORE/MooNTooLSTORE_UI.git
+Временная директория: /home/user/studio/.deploy_temp/ui
+Временная директория UI создана.
+Новый UI репозиторий инициализирован.
+Начинаю копирование файлов UI...
+Копирую все файлы проекта...
+КРИТИЧЕСКАЯ ОШИБКА: Invalid src or dest: cp returned EINVAL (cannot copy /home/user/studio to a subdirectory of self /home/user/studio/.deploy_temp/ui) /home/user/studio/.deploy_temp/ui
+Начинаем деплой UI...
+Начинается деплой UI в репозиторий: https://github.com/MooNTooLSTORE/MooNTooLSTORE_UI.git
+Временная директория: /home/user/studio/.deploy_temp/ui
+Временная директория UI создана.
+Новый UI репозиторий инициализирован.
+Начинаю копирование файлов UI...
+Пропускаю директорию: .deploy_temp
+Копирую: .env
+Копирую: .env.example
+Пропускаю директорию: .git
+Копирую: .gitignore
+Копирую: .idx
+Копирую: .modified
+Копирую: .next
+Копирую: TELEGRAM_SETUP.md
+Копирую: components.json
+Копирую: deploy_logs.txt
+Копирую: next-env.d.ts
+Копирую: next.config.js
+Копирую: next.config.ts
+Пропускаю директорию: node_modules
+Копирую: package-lock.json
+Копирую: package.json
+Копирую: postcss.config.mjs
+Копирую: rpm-hero-header.png
+Копирую: src
+Копирую: tailwind.config.ts
+Копирую: tsconfig.json
+Копирование файлов проекта завершено.
+Проверяю и удаляю /home/user/studio/.deploy_temp/ui/src/app/api...
+Директория API успешно удалена из сборки UI.
+Индексация UI файлов...
+UI файлы проиндексированы.
+Создание коммита для UI...
+UI коммит создан.
+Отправка UI в ветку 'master'...
+UI успешно отправлен.
+Деплой UI завершен.
+SUCCESS:Деплой UI успешно завершен!
+Начинаем деплой UI...
+Начинается деплой UI в репозиторий: https://github.com/MooNTooLSTORE/MooNTooLSTORE_UI.git
+Временная директория: /home/user/studio/.deploy_temp/ui
+Временная директория UI создана.
+Новый UI репозиторий инициализирован.
+Начинаю копирование файлов UI...
+Пропускаю директорию: .deploy_temp
+Копирую: .env
+Копирую: .env.example
+Пропускаю директорию: .git
+Копирую: .gitignore
+Копирую: .idx
+Копирую: .modified
+Копирую: .next
+Копирую: TELEGRAM_SETUP.md
+Копирую: components.json
+Копирую: deploy_logs.txt
